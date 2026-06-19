@@ -19,16 +19,11 @@
 
 ### ⚡ whoami
 
-```ts
-const ilian = {
-  role:      "AI engineer / full-stack builder",
-  flagship:  "a personal AI butler — facial + voice recognition",
-  stack:     ["Python (the brain)", "TypeScript", "React Native", "Node.js"],
-  domains:   ["computer vision", "voice interfaces", "AI platforms", "mobile"],
-  mostWork:  "private repos — AI platforms & apps not ready for daylight",
-  motto:     "learn loud, ship quiet",
-};
-```
+- 🤖 &nbsp;**AI engineer / full-stack builder** — flagship: a personal **AI butler** with **facial + voice recognition**
+- 🧠 &nbsp;**Polyglot** — **Python** for the brain · **TypeScript / React Native / Node.js** for everything people touch
+- 🛰️ &nbsp;**Domains** — computer vision · voice interfaces · AI platforms · mobile
+- 🔒 &nbsp;**Most of my work is private** — AI platforms & apps not ready for daylight
+- 🎯 &nbsp;*learn loud, ship quiet*
 
 > 🔒 The repos you can see are the tip of it. The real machinery — AI platforms, a mobile product, and a couple of things still in the lab — lives private. You'll see the results, not the source.
 
@@ -58,7 +53,7 @@ const ilian = {
 ### 📈 Telemetry
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=K4RM4-1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=36BCF7&icon_color=36BCF7"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=K4RM4-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=36BCF7&icon_color=36BCF7"/>
   <img height="180" src="https://streak-stats.demolab.com/?user=K4RM4-1&theme=tokyonight&hide_border=true&background=0b1120&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
 </p>
 
